@@ -1,5 +1,3 @@
-# analise-de-vagas
-
 📊 Relatório de Pesquisa de Vagas em TI 2025
 
 Este repositório apresenta um estudo sobre o mercado de trabalho em Tecnologia da Informação em 2025, destacando áreas em crescimento, hard e soft skills mais requisitadas, além de tendências nacionais e internacionais.
